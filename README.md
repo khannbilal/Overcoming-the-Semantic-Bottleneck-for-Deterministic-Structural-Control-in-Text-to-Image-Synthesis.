@@ -1,0 +1,2 @@
+# Overcoming-the-Semantic-Bottleneck-for-Deterministic-Structural-Control-in-Text-to-Image-Synthesis.
+Latent diffusion models lack deterministic geometric control. We propose Procedural Latent Prompt Injection, a zero-shot method embedding geometric priors in latent space via normalized tensor operators during timesteps 10–20, boosting structural alignment 19.6% and diversity 12.3%, outperforming baselines.
